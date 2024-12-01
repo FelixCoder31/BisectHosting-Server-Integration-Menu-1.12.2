@@ -1,23 +1,3 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+## Introducing the BisectHosting Server Integration Mod! Adding this to your modpack will allow your players to customize and purchase a server directly within the mulitplayer menu! As of V2.0 -- we have added NEW features to list your official server on our public server list!
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+### This mod is intended for BisectHosting Official Partners.
